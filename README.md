@@ -12,7 +12,7 @@ Hello! I am an iOS Developer from Russia.
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="40" height="40"> <img src="https://user-images.githubusercontent.com/58361435/208142494-8b77347c-47b7-4d62-aa91-3369b14c9119.png" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xcode/xcode-original.svg" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="40" height="40">
 
 ### Contacts:
-![Telegram_logo svg](https://user-images.githubusercontent.com/58361435/208140062-dea48938-63dd-41c9-a747-0a9c77284a46.png) @nofeaar
+![Telegram_logo svg](https://user-images.githubusercontent.com/58361435/208140062-dea48938-63dd-41c9-a747-0a9c77284a46.png) @yuriyxk
 
 ### Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bnofer21)](https://git.io/streak-stats)
